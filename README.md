@@ -9,7 +9,7 @@
 ## **Week 1:** Variables, Data types & Operators
 
 ## **Week 2:** Branching
- * CSE110 Lab Assignment 01
+ * [CSE110 Lab Assignment 01](https://github.com/sh808siam/CSE110-BRACU/tree/main/Assignment%2001)
 
 ## **Week 3:** Iterations
  * CSE110 Lab Assignment 02
